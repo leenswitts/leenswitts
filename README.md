@@ -8,6 +8,11 @@
 - 🌱 I’m currently learning more about blockcain and Pychology 
 - 🔭 I’m looking to collaborate on anything cool
 - 💬 Ask me about Flutter or any tech-related stuff.
+- 
+## 💳 Github Profile Summary Card
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=leenswitts&theme=vue"/>
+</p>
 
   ## 📟 GitHub Stats
 <p align="center">
