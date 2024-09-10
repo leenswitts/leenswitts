@@ -5,9 +5,9 @@
 
 # 💫 About Me :
 - 💞️  I love startups and Innovations
-- 🌱 I’m currently learning more about blockcain and Pychology 
+- 🌱 I’m currently learning more about Bioinformatics, project management and Pychology 
 - 🔭 I’m looking to collaborate on anything cool
-- 💬 Ask me about design or any tech-related stuff.
+- 💬 Ask me about any tech-related stuff.
   
 ## 💳 Github Profile Summary Card
 <p align="center">
