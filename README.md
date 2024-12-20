@@ -5,7 +5,7 @@
 
 # 💫 About Me :
 - 💞️  I love startups and Innovations
-- 🌱 I’m currently learning more about Bioinformatics, project management and Pychology 
+- 🌱 I’m currently learning more about Bioinformatics, project management and psychology 
 - 🔭 I’m looking to collaborate on anything cool
 - 💬 Ask me about any tech-related stuff.
   
